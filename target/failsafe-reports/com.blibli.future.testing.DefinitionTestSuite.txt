@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.blibli.future.testing.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.1 sec - in com.blibli.future.testing.DefinitionTestSuite
