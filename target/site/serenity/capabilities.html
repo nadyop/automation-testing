@@ -5,20 +5,20 @@
 <head>
     <meta charset="UTF-8"/>
     <title>Requirements</title>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
@@ -46,7 +46,6 @@
 
 
 
-
     <script class="code" type="text/javascript">$(document).ready(function () {
         var plot1 = $.jqplot('coverage_pie_chart', [
             [
@@ -56,7 +55,7 @@
                 ['Failing', 0],
                 ['Errors',  0],
                 ['Compromised',  0],
-                ['Untested',  1],
+                ['Untested',  2],
             ]
         ], {
             gridPadding: {top: 0, bottom: 38, left: 0, right: 0},
@@ -89,25 +88,25 @@
                 {label: '0} requirements with failures'},
                 {label: '0} requirements with errors'},
                 {label: '0} requirements compromised'},
-                {label: '1} requirements untested'},
+                {label: '2} requirements untested'},
             ]
         });
         // Results table
         $('#test-results-table').DataTable({
             "order": [
-                [ 1, "asc" ]
+                [1, "asc"]
             ],
             "pageLength": 100,
-            "lengthMenu": [ [50, 100, 200, -1] , [50, 100, 200, "All"] ]
+            "lengthMenu": [[50, 100, 200, -1], [50, 100, 200, "All"]]
         });
 
         // Results table
         $('#req-results-table').DataTable({
             "order": [
-                [ 1, "asc" ]
+                [1, "asc"]
             ],
             "pageLength": 100,
-            "lengthMenu": [ [50, 100, 200, -1] , [50, 100, 200, "All"] ]
+            "lengthMenu": [[50, 100, 200, -1], [50, 100, 200, "All"]]
         });
 
         $('#examples-table').DataTable({
@@ -178,13 +177,13 @@
             <a href="#"><i class="fa fa-book"></i> Requirements</a>
         </li>
         <li >
-            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
-        </li>
-        <li >
             <a href="7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html"><i class="fa fa-comments-o"></i> Capabilities</a>
         </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 18-08-2018 14:40</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 18-08-2018 17:16</span>
     <br style="clear:left"/>
 </div>
 
@@ -194,6 +193,7 @@
     <div id="results-dashboard">
         <div class="middlb">
             <div class="table">
+
 
                 <div id="requirements-summary">
                     <div id="coverage_pie_chart"
@@ -215,7 +215,8 @@
                                 </head>
                                 <body>
                                     <tr>
-                                        <td class="summary-leading-column"><a href="#requirements-tabs">Capabilities</a></td>
+                                        <td class="summary-leading-column"><a
+                                                href="#requirements-tabs">Capabilities</a></td>
                                         <td>2</td>
                                         <td>0</td>
                                         <td>0</td>
@@ -224,17 +225,19 @@
                                             <td>2</td>
                                     </tr>
                                     <tr>
-                                        <td class="summary-leading-column"><a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html">Features</a></td>
+                                        <td class="summary-leading-column"><a
+                                                href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html">Features</a></td>
+                                        <td>3</td>
+                                        <td>1</td>
+                                        <td>0</td>
+                                        <td>0</td>
                                         <td>2</td>
-                                        <td>1</td>
-                                        <td>0</td>
-                                        <td>0</td>
-                                        <td>1</td>
-                                            <td>1</td>
+                                            <td>2</td>
                                     </tr>
 
                                 <tr>
-                                    <td class="summary-leading-column"><a href="#test-results-table">Acceptance Criteria (tests)</a></td>
+                                    <td class="summary-leading-column"><a href="#test-results-table">Acceptance Criteria
+                                        (tests)</a></td>
                                     <td>1</td>
                                     <td>1</td>
                                     <td>0</td>
@@ -290,7 +293,7 @@
         </tr>
         <tr>
             <td class="summary-leading-column">Total Duration</td>
-                <td colspan="5">15 seconds</td>
+                <td colspan="5">7 seconds</td>
         </tr>
         </body>
     </table>
@@ -298,11 +301,10 @@
                     </div>
                 </div>
                 <div class="clr"></div>
-
                 <div id="requirements-tabs">
                         <ul>
                                 <li><a href="#tabs-1">
-                                Capabilities (3)
+                                    Capabilities (4)
                                 </a></li>
                         </ul>
                         <div id="tabs-1" class="capabilities-table">
@@ -553,7 +555,7 @@ I want to be able to look up the meaning of the word</div>
                         <a href="javaScript:void(0)" class="read-more-link">
                             <img src="images/plus.png" height="16"/></a>
                         <span class="requirementName"><a
-                                href="e4b4611bdc73f854c854b0c7d0a31c1fbd4c8df09a9c579b928500508c89ad05.html">Quote feature</a></span>
+                                href="0e1ac31c804c352ec1761f42289d348e7a8b7270eb582858ea1ba76fcf68de41.html">Pet Store</a></span>
 
                         <div class="requirementNarrative read-more-text"></div>
                     </td>
@@ -670,7 +672,7 @@ I want to be able to look up the meaning of the word</div>
         </td>
         <td width="125px">
             <div class="percentagebar"
-                 title="Quote feature:
+                 title="Pet Store:
   - Passing Features: 1 (100%
   - Features Failing: 0 (0%
   - Features Failing with errors: 0
@@ -680,7 +682,7 @@ I want to be able to look up the meaning of the word</div>
   - Untested Features: 0 (0%"
                  style="width: 125px;">
                 <div class="pendingbar"
-                     title="Quote feature:
+                     title="Pet Store:
   - Passing Features: 1 (100%
   - Features Failing: 0 (0%
   - Features Failing with errors: 0
@@ -691,7 +693,7 @@ I want to be able to look up the meaning of the word</div>
                      style="width: 125px;">
                     <div class="ignoredbar"
                          style="width: 125px;"
-                         title="Quote feature:
+                         title="Pet Store:
   - Passing Features: 1 (100%
   - Features Failing: 0 (0%
   - Features Failing with errors: 0
@@ -701,7 +703,7 @@ I want to be able to look up the meaning of the word</div>
   - Untested Features: 0 (0%">
                         <div class="compromisedbar"
                              style="width: 125px;"
-                             title="Quote feature:
+                             title="Pet Store:
   - Passing Features: 1 (100%
   - Features Failing: 0 (0%
   - Features Failing with errors: 0
@@ -711,7 +713,7 @@ I want to be able to look up the meaning of the word</div>
   - Untested Features: 0 (0%">
                             <div class="errorbar"
                                  style="width: 125px;"
-                                 title="Quote feature:
+                                 title="Pet Store:
   - Passing Features: 1 (100%
   - Features Failing: 0 (0%
   - Features Failing with errors: 0
@@ -721,7 +723,7 @@ I want to be able to look up the meaning of the word</div>
   - Untested Features: 0 (0%">
                                 <div class="failingbar"
                                      style="width: 125px;"
-                                     title="Quote feature:
+                                     title="Pet Store:
   - Passing Features: 1 (100%
   - Features Failing: 0 (0%
   - Features Failing with errors: 0
@@ -731,7 +733,7 @@ I want to be able to look up the meaning of the word</div>
   - Untested Features: 0 (0%">
                                     <div class="passingbar"
                                          style="width: 125px;"
-                                         title="Quote feature:
+                                         title="Pet Store:
   - Passing Features: 1 (100%
   - Features Failing: 0 (0%
   - Features Failing with errors: 0
@@ -739,6 +741,217 @@ I want to be able to look up the meaning of the word</div>
   - Pending Features: 0
   - Ignored or skipped Features: 0
   - Untested Features: 0 (0%">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+                    </td>
+                </tr>
+
+
+                <tr class="test-SUCCESS requirementRow">
+                    <td class="requirementRowCell">
+                        <span class="status_icon"><i class='fa fa-square-o pending-icon ' title='PENDING'></i></span>
+                        <span style="display:none">2</span>
+                    </td>
+                    <td class="cardNumber requirementRowCell"></td>
+
+                    <td class="SUCCESS-text requirementRowCell">
+                        <a href="javaScript:void(0)" class="read-more-link">
+                            <img src="images/plus.png" height="16"/></a>
+                        <span class="requirementName"><a
+                                href="e4b4611bdc73f854c854b0c7d0a31c1fbd4c8df09a9c579b928500508c89ad05.html">Quote feature</a></span>
+
+                        <div class="requirementNarrative read-more-text"></div>
+                    </td>
+
+                        <td class="bluetext requirementRowCell">0</td>
+
+                    <td class="greentext highlighted-value requirementRowCell">0</td>
+<!--
+                    <td class="greentext requirementRowCell">0</td>
+                    <td class="bluetext requirementRowCell">0</td>
+                    <td class="redtext requirementRowCell">0</td>
+                    <td class="lightorangetext requirementRowCell">0</td>
+                    <td class="violettext requirementRowCell">0</td>
+-->
+                        <td class="greentext highlighted-value requirementRowCell">0</td>
+<!--
+                        <td class="greentext requirementRowCell">0</td>
+                        <td class="bluetext requirementRowCell">0</td>
+                        <td class="redtext requirementRowCell">0</td>
+                        <td class="lightorangetext requirementRowCell">0</td>
+                        -->
+
+                    <td width="125px" class="lightgreentext requirementRowCell">
+
+
+<table>
+    <tr>
+        <td width="40px">
+            <div class="small">0%</div>
+        </td>
+        <td width="125px">
+            <div class="percentagebar"
+                 title="  - Total tests: 0
+  - Passing tests: 0 (0%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)"
+                 style="width: 125px;">
+                <div class="pendingbar"
+                     title="  - Total tests: 0
+  - Passing tests: 0 (0%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)"
+                     style="width: 0px;">
+                    <div class="ignoredbar"
+                         style="width: 0px;"
+                         title="  - Total tests: 0
+  - Passing tests: 0 (0%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                        <div class="compromisedbar"
+                             style="width: 0px;"
+                             title="  - Total tests: 0
+  - Passing tests: 0 (0%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                            <div class="errorbar"
+                                 style="width: 0px;"
+                                 title="  - Total tests: 0
+  - Passing tests: 0 (0%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                                <div class="failingbar"
+                                     style="width: 0px;"
+                                     title="  - Total tests: 0
+  - Passing tests: 0 (0%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                                    <div class="passingbar"
+                                         style="width: 0px;"
+                                         title="  - Total tests: 0
+  - Passing tests: 0 (0%)
+  - Failing tests: 0 (0%)
+  - Tests with errors: 0 (0%)
+  - Compromised tests 0 (0%)
+  - Pending tests: 0 (0%)
+  - Ignored or skipped tests: 0 (0%)">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+                    </td>
+
+                    <td width="125px" class="lightgreentext requirementRowCell">
+
+
+<table>
+    <tr>
+        <td width="40px">
+            <div class="small">0%</div>
+        </td>
+        <td width="125px">
+            <div class="percentagebar"
+                 title="Quote feature:
+  - Passing Features: 0 (0%
+  - Features Failing: 0 (0%
+  - Features Failing with errors: 0
+  - Compromised Features: 0
+  - Pending Features: 0
+  - Ignored or skipped Features: 0
+  - Untested Features: 1 (0%"
+                 style="width: 125px;">
+                <div class="pendingbar"
+                     title="Quote feature:
+  - Passing Features: 0 (0%
+  - Features Failing: 0 (0%
+  - Features Failing with errors: 0
+  - Compromised Features: 0
+  - Pending Features: 0
+  - Ignored or skipped Features: 0
+  - Untested Features: 1 (0%"
+                     style="width: 0px;">
+                    <div class="ignoredbar"
+                         style="width: 0px;"
+                         title="Quote feature:
+  - Passing Features: 0 (0%
+  - Features Failing: 0 (0%
+  - Features Failing with errors: 0
+  - Compromised Features: 0
+  - Pending Features: 0
+  - Ignored or skipped Features: 0
+  - Untested Features: 1 (0%">
+                        <div class="compromisedbar"
+                             style="width: 0px;"
+                             title="Quote feature:
+  - Passing Features: 0 (0%
+  - Features Failing: 0 (0%
+  - Features Failing with errors: 0
+  - Compromised Features: 0
+  - Pending Features: 0
+  - Ignored or skipped Features: 0
+  - Untested Features: 1 (0%">
+                            <div class="errorbar"
+                                 style="width: 0px;"
+                                 title="Quote feature:
+  - Passing Features: 0 (0%
+  - Features Failing: 0 (0%
+  - Features Failing with errors: 0
+  - Compromised Features: 0
+  - Pending Features: 0
+  - Ignored or skipped Features: 0
+  - Untested Features: 1 (0%">
+                                <div class="failingbar"
+                                     style="width: 0px;"
+                                     title="Quote feature:
+  - Passing Features: 0 (0%
+  - Features Failing: 0 (0%
+  - Features Failing with errors: 0
+  - Compromised Features: 0
+  - Pending Features: 0
+  - Ignored or skipped Features: 0
+  - Untested Features: 1 (0%">
+                                    <div class="passingbar"
+                                         style="width: 0px;"
+                                         title="Quote feature:
+  - Passing Features: 0 (0%
+  - Features Failing: 0 (0%
+  - Features Failing with errors: 0
+  - Compromised Features: 0
+  - Pending Features: 0
+  - Ignored or skipped Features: 0
+  - Untested Features: 1 (0%">
                                     </div>
                                 </div>
                             </div>
@@ -997,20 +1210,20 @@ I want to be able to update definitions in the dictionary</div>
                                 <td class="SUCCESS-text">
                                     <div class="ellipsis">
 
-                                        <a href="ad0994fa911b7dcf85e28831064d7016390c313afc1d59270e62f47b8d41c85f.html" class="ellipsis"
-                                           title="Add quote ">
-                                            Add quote
+                                        <a href="c662cf45d756473e6e948dd7fe976a931d85131da7da662a383402054795498d.html" class="ellipsis"
+                                           title="verify add pet ">
+                                            verify add pet
                                                 <span class="related-issue-title"></span>
                                         </a>
                                     </div>
                                 </td>
 
-                                <td class="SUCCESS-text">11</td>
+                                <td class="SUCCESS-text">5</td>
 
 
-                                <td class="SUCCESS-text" data-sort="2018-08-18 14:40:50">14:40:50</td>
+                                <td class="SUCCESS-text" data-sort="2018-08-18 17:16:10">17:16:10</td>
 
-                                <td class="SUCCESS-text">15.29</td>
+                                <td class="SUCCESS-text">6.64</td>
                             </tr>
                         </tbody>
                     </table>
@@ -1028,7 +1241,7 @@ I want to be able to update definitions in the dictionary</div>
 </div>
 </div>
 <div id="bottomfooter">
-    <span class="version">Serenity BDD version 1.8.1</span>
+    <span class="version">Serenity BDD version 1.9.9</span>
 </div>
 </body>
 </html>

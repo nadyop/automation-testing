@@ -3,5 +3,7 @@ com\blibli\future\testing\steps\serenity\EndUserSteps.class
 com\blibli\future\testing\steps\serenity\EndUserQuoteSteps.class
 com\blibli\future\testing\steps\DefinitionSteps.class
 com\blibli\future\testing\DefinitionTestSuite.class
-com\blibli\future\testing\pages\QuotePage.class
 com\blibli\future\testing\pages\DictionaryPage.class
+com\blibli\future\testing\api\petstore\PetController.class
+com\blibli\future\testing\steps\PetStoreSteps.class
+com\blibli\future\testing\pages\QuotePage.class

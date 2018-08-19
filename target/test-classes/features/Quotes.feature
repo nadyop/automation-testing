@@ -8,4 +8,4 @@ Feature: Quote feature
     And User type author 'me'
     And User select color "yellow"
     And User click add quote button
-    Then User should see quote "asdasdasdasdasdsadsadsad"
+    Then User should see quote "There are always way"

@@ -1,7 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e95666ac-b3fe-42de-8f04-ee8d3a8ca043" name="Default Changelist" comment="" />
+    <list default="true" id="e95666ac-b3fe-42de-8f04-ee8d3a8ca043" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.blibli.future.testing.DefinitionTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.blibli.future.testing.DefinitionTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/com.blibli.future.testing.DefinitionTestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/com.blibli.future.testing.DefinitionTestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f2cc446ed4ed3124c4f17cc1c1420e8e5f4987d397d4c57ef13b77052bd5ac.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f2cc446ed4ed3124c4f17cc1c1420e8e5f4987d397d4c57ef13b77052bd5ac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/037b6c86967402ef58d87e907212b590733b25009c030033aeb374cc56cbc560.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0404ef305bf8c11dd75388c27ed0d1f8bc6565e8162421207d89a0f13ae68fac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0449d9277ef63c0cce558912cf579b8e0f68b2fa6ad2f226ec1281eb0516b972.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0624d7b670ac3b35b5aedfef023b7b3e21a09e0fc620873f566e83fbb77de70c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0727f45b24c522a3db66b636a55cdf91ac0d9ed4798f3ead9533810237ec33a7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0727f45b24c522a3db66b636a55cdf91ac0d9ed4798f3ead9533810237ec33a7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0727f45b24c522a3db66b636a55cdf91ac0d9ed4798f3ead9533810237ec33a7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0727f45b24c522a3db66b636a55cdf91ac0d9ed4798f3ead9533810237ec33a7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1177ba7dad4494c6aaef5efa62ffe79aeb0d0b2299f9c5486dc13c6495cdfc9c.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1177ba7dad4494c6aaef5efa62ffe79aeb0d0b2299f9c5486dc13c6495cdfc9c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1bd38e565ad560ca7e7dc78932d35fb69a8ea17604b3ff7f9302a38893cf6103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1f33c2a0be683422e5572d057d46a9e56152eca8bf0fec81284e734ebcc3777c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/274963486f2bb4f87ce5f95f589cbea8181e4ad0faaf7515d574054d83ce4170.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/274963486f2bb4f87ce5f95f589cbea8181e4ad0faaf7515d574054d83ce4170.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/398ff6a75af5b403a34ff6dc3bf9b0b1074d7f547e4273069b4af852f74534ad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/42e31210aaadc16be2fe450935dcf52787362f2e872a48549d6f590f94d5b94f.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/42e31210aaadc16be2fe450935dcf52787362f2e872a48549d6f590f94d5b94f.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/42e31210aaadc16be2fe450935dcf52787362f2e872a48549d6f590f94d5b94f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/42e31210aaadc16be2fe450935dcf52787362f2e872a48549d6f590f94d5b94f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/470e4f3e14189b7901db9619e82698ae62b1a8b79484ea27bb2e6a323fecea79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/48091b933acafc0961170e3a672433e245992a5f4070e8c237b1e044e9600e54.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/48091b933acafc0961170e3a672433e245992a5f4070e8c237b1e044e9600e54.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4afcbfbdf4f5ad787992175e8bdc100ee6ee0df00f7b500d026ace2f93aeb9a1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4afcbfbdf4f5ad787992175e8bdc100ee6ee0df00f7b500d026ace2f93aeb9a1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5011a419522e8ba1d838d9564d3d8d834cc0b858d38869d16e86b357fb32caf5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5011a419522e8ba1d838d9564d3d8d834cc0b858d38869d16e86b357fb32caf5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5252cac5399b2ef91dfb611160e5391a6c743030c99a4e5c95026074e4ab5330.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5252cac5399b2ef91dfb611160e5391a6c743030c99a4e5c95026074e4ab5330.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5717fb99206792fb9031645370d1ad27f4a9436944618adbe061e8a4867ff017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/612d9968525961aca8edfc2756ccd8ec0f3da9f2d707948bf0fbb46a58e8eeb9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/612d9968525961aca8edfc2756ccd8ec0f3da9f2d707948bf0fbb46a58e8eeb9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/612d9968525961aca8edfc2756ccd8ec0f3da9f2d707948bf0fbb46a58e8eeb9.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/612d9968525961aca8edfc2756ccd8ec0f3da9f2d707948bf0fbb46a58e8eeb9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6361adc888d83d2f8ce6d7a02a36caf64f9bab4d52521465a483ac51d95be795.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/6361adc888d83d2f8ce6d7a02a36caf64f9bab4d52521465a483ac51d95be795.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6361adc888d83d2f8ce6d7a02a36caf64f9bab4d52521465a483ac51d95be795.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/6361adc888d83d2f8ce6d7a02a36caf64f9bab4d52521465a483ac51d95be795.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6545c9e08a6fe26bbc09502fd0c7f78850d7961bcbd529bc7c92160a3684fd2c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6bc28ccec6a26617bad44e1480d4197e1f6490acbef911b837821886db746663.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/74e62f728d03bb8c8d6416ba189db392d793ea2d1a0a631eb96ccaf1f0744d9d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7a7491f0f67f8b89a4c49aa23431277e7fcb953c30d6855be251b63c56fe34f8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7d55084aec0717130491d35a346b9b58ed4dbd4baa1efcadfbbc4b066d1acbca.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7d55084aec0717130491d35a346b9b58ed4dbd4baa1efcadfbbc4b066d1acbca.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7d55084aec0717130491d35a346b9b58ed4dbd4baa1efcadfbbc4b066d1acbca.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7d55084aec0717130491d35a346b9b58ed4dbd4baa1efcadfbbc4b066d1acbca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7d911396b9eece8aa629eeb3bb32cef6f100035a526e72d164f9a0c059970e6c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7d911396b9eece8aa629eeb3bb32cef6f100035a526e72d164f9a0c059970e6c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8111db92dc10da0878619b4795e567543cf0676d08b9299fa3ba91599d3df7e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8249cb9fcf00a6b6228afc5823bf769c9d20a5189726afcb606d6f22d9186e9e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8b3561edc92582cd2ea6536238c34aa200ed80f6a57310f694b132bd51aba5f0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/92427e5fa791368a22dac25170481f61d0b20ccec05495035468d935f9f9001a.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/92427e5fa791368a22dac25170481f61d0b20ccec05495035468d935f9f9001a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/93ce82de52f1af5ce124ce76a6f72bc5403f1535c6d290a0d736c7c87adf712c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/95a4e3fdafb4fab7cd464ca773b834bfaadd9e3a7dcf49dc18d2692995f77785.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-ad0994fa911b7dcf85e28831064d7016390c313afc1d59270e62f47b8d41c85f.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a5ab9b36b62ecf26f8d681545741521686f320c1d5f8f3e0f18db854fe6a23c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ad0994fa911b7dcf85e28831064d7016390c313afc1d59270e62f47b8d41c85f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ad0994fa911b7dcf85e28831064d7016390c313afc1d59270e62f47b8d41c85f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ad0994fa911b7dcf85e28831064d7016390c313afc1d59270e62f47b8d41c85f_screenshots.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b097bc3886def0130f5750421636377a341a07b8895635c0f0db8eaf7d492d04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b26e528162b9270543325005291ca6af5b7bc43c8321fb65aa8960027fedac0a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b26e528162b9270543325005291ca6af5b7bc43c8321fb65aa8960027fedac0a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b9f5bdbd19019c9a8a858166f6df989e41ffd9fcf8c62ada201bbd411488cc0e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/be2560cf3f0e514a0ac122860acedeb9cc00825703e712e79526db6f8001e282.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c193984da85920f1967f14c3cb48468660a799e2f90da2041c2e81e99d393631.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c193984da85920f1967f14c3cb48468660a799e2f90da2041c2e81e99d393631.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c7e674793f42e9f7db4c18b07810d19ed5c301d319a7e8d518a7a5a27132320d.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c7e674793f42e9f7db4c18b07810d19ed5c301d319a7e8d518a7a5a27132320d.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/cddfa9796dd64beea31c39a4e595d1abe0b93eb91d0f30eed9a714a0f2d099d8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/css/core.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/css/core.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d400291e07b78b2008e58f8fae1cc0fdf22487051d8d0d6994415a8de9644085.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d400291e07b78b2008e58f8fae1cc0fdf22487051d8d0d6994415a8de9644085.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d8d8718837ed5f110b90aec8c2310cb23ecc9cbb9bd52d125322e71bc6ced147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d8e575c014c904f2c5decab404e792bb62a79cce8bcb9783f02aa1322f959bbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/dfd86e051ea0fc5b7c3268fd225d378d01d35a0ad7aef2766790ef08c435ec2f.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/dfd86e051ea0fc5b7c3268fd225d378d01d35a0ad7aef2766790ef08c435ec2f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e38da53124c23807b0ec55535914f989d2564b365a7653e378d4c93467b5a104.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e4b4611bdc73f854c854b0c7d0a31c1fbd4c8df09a9c579b928500508c89ad05.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e4b4611bdc73f854c854b0c7d0a31c1fbd4c8df09a9c579b928500508c89ad05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/eb07a7fdc79998c9b1d124c4da1f3869e1cc059fae66df8e6baec7bef15f11a7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/edc38bce1aaa9fe444df4260958d5d7d587401539541b228a70a6bcbe5ccbdda.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/edc38bce1aaa9fe444df4260958d5d7d587401539541b228a70a6bcbe5ccbdda.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f218ca28b4c05135d0a1f09f9fb4d4500dcd973a821ed0b6e5dbebe4dd3c0298.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f218ca28b4c05135d0a1f09f9fb4d4500dcd973a821ed0b6e5dbebe4dd3c0298.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f5e247924497bc2552d9f86dcc23468b8391a59e001829409d16225b24b10093.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f5e247924497bc2552d9f86dcc23468b8391a59e001829409d16225b24b10093.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f7bc6299c49b918b16008f20867a958bc156f22ff16454fb643b77e56f4df77f.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f7bc6299c49b918b16008f20867a958bc156f22ff16454fb643b77e56f4df77f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource3365647394420216455.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_0404ef305bf8c11dd75388c27ed0d1f8bc6565e8162421207d89a0f13ae68fac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_0449d9277ef63c0cce558912cf579b8e0f68b2fa6ad2f226ec1281eb0516b972.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_0624d7b670ac3b35b5aedfef023b7b3e21a09e0fc620873f566e83fbb77de70c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_1bd38e565ad560ca7e7dc78932d35fb69a8ea17604b3ff7f9302a38893cf6103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_1f33c2a0be683422e5572d057d46a9e56152eca8bf0fec81284e734ebcc3777c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_470e4f3e14189b7901db9619e82698ae62b1a8b79484ea27bb2e6a323fecea79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_5717fb99206792fb9031645370d1ad27f4a9436944618adbe061e8a4867ff017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_6545c9e08a6fe26bbc09502fd0c7f78850d7961bcbd529bc7c92160a3684fd2c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_6bc28ccec6a26617bad44e1480d4197e1f6490acbef911b837821886db746663.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_74e62f728d03bb8c8d6416ba189db392d793ea2d1a0a631eb96ccaf1f0744d9d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_8111db92dc10da0878619b4795e567543cf0676d08b9299fa3ba91599d3df7e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_8249cb9fcf00a6b6228afc5823bf769c9d20a5189726afcb606d6f22d9186e9e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_8b3561edc92582cd2ea6536238c34aa200ed80f6a57310f694b132bd51aba5f0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_93ce82de52f1af5ce124ce76a6f72bc5403f1535c6d290a0d736c7c87adf712c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_95a4e3fdafb4fab7cd464ca773b834bfaadd9e3a7dcf49dc18d2692995f77785.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_a5ab9b36b62ecf26f8d681545741521686f320c1d5f8f3e0f18db854fe6a23c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_b097bc3886def0130f5750421636377a341a07b8895635c0f0db8eaf7d492d04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_b9f5bdbd19019c9a8a858166f6df989e41ffd9fcf8c62ada201bbd411488cc0e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_be2560cf3f0e514a0ac122860acedeb9cc00825703e712e79526db6f8001e282.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_cddfa9796dd64beea31c39a4e595d1abe0b93eb91d0f30eed9a714a0f2d099d8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_d8d8718837ed5f110b90aec8c2310cb23ecc9cbb9bd52d125322e71bc6ced147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_d8e575c014c904f2c5decab404e792bb62a79cce8bcb9783f02aa1322f959bbb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/scaled_eb07a7fdc79998c9b1d124c4da1f3869e1cc059fae66df8e6baec7bef15f11a7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/testing/DefinitionTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/blibli/future/testing/DefinitionTestSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Quotes.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Quotes.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/training-ui-automation-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/training-ui-automation-1.0.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,36 +139,39 @@
     <session id="138871914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="feature" value="429" />
-          <entry key="java" value="1121" />
-          <entry key="xml" value="54" />
+          <entry key="feature" value="720" />
+          <entry key="java" value="2065" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="429" />
-          <entry key="JAVA" value="1121" />
-          <entry key="XML" value="54" />
+          <entry key="Cucumber" value="720" />
+          <entry key="JAVA" value="2065" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="feature" value="2" />
-          <entry key="java" value="7" />
+          <entry key="feature" value="3" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Cucumber" value="2" />
-          <entry key="JAVA" value="7" />
+          <entry key="Cucumber" value="3" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -53,17 +181,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/consult_dictionary/LookupADefinition.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -71,48 +190,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/DefinitionSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="306">
               <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/serenity/EndUserSteps.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/PetStoreSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/Quotes.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/QuoteSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+            <state relative-caret-position="519">
+              <caret line="38" column="73" lean-forward="true" selection-start-line="38" selection-start-column="73" selection-end-line="38" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,20 +209,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/pages/QuotePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/api/petstore/PetController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+            <state relative-caret-position="166">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1132#1133#0" expanded="true" />
-                <element signature="e#1177#1178#0" expanded="true" />
-                <element signature="e#1217#1218#0" expanded="true" />
-                <element signature="e#1261#1262#0" expanded="true" />
-                <element signature="e#1315#1316#0" expanded="true" />
-                <element signature="e#1349#1350#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/Quotes.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/QuoteSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/pages/QuotePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1375#1376#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/PetStore.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -142,30 +275,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/serenity/EndUserQuoteSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="102">
               <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/pages/DictionaryPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -186,18 +300,32 @@
       <find>textQuote</find>
       <find>there are</find>
       <find>getTe</find>
+      <find>depe</find>
+      <find>lombok</find>
+      <find>int</find>
+      <find>QuoteFeature</find>
+      <find>sereni</find>
+      <find>1.9.36</find>
+      <find>chrome</find>
+      <find>responseAddPet</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/DefinitionSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/pages/QuotePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/serenity/EndUserQuoteSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/QuoteSteps.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/Quotes.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/DefinitionSteps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/PetStore.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/PetStoreSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/testing/api/petstore/PetController.java" />
       </list>
     </option>
   </component>
@@ -236,11 +364,15 @@
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,6 +405,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traininguiautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traininguiautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="petstore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="traininguiautomation" type="b2602c69:ProjectViewProjectNode" />
@@ -317,25 +458,49 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="traininguiautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traininguiautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="update_definition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traininguiautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traininguiautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traininguiautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traininguiautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="traininguiautomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="traininguiautomation" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534579289214" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534587472696" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -354,7 +519,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in traininguiautomation (1)">
+  <component name="RunManager" selected="JUnit.All in traininguiautomation (2)">
     <configuration name="All in traininguiautomation (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="traininguiautomation" />
       <option name="PACKAGE_NAME" value="" />
@@ -363,7 +528,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in traininguiautomation (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in traininguiautomation (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="traininguiautomation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -396,19 +561,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in traininguiautomation (3)" />
       <item itemvalue="JUnit.All in traininguiautomation (4)" />
       <item itemvalue="JUnit.All in traininguiautomation (5)" />
       <item itemvalue="JUnit.All in traininguiautomation" />
       <item itemvalue="JUnit.All in traininguiautomation (1)" />
+      <item itemvalue="JUnit.All in traininguiautomation (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in traininguiautomation (2)" />
         <item itemvalue="JUnit.All in traininguiautomation (1)" />
         <item itemvalue="JUnit.All in traininguiautomation" />
         <item itemvalue="JUnit.All in traininguiautomation (5)" />
         <item itemvalue="JUnit.All in traininguiautomation (4)" />
-        <item itemvalue="JUnit.All in traininguiautomation (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -423,44 +588,50 @@
       <option name="presentableId" value="Default" />
       <updated>1534568051850</updated>
       <workItem from="1534568053851" duration="968000" />
-      <workItem from="1534572533031" duration="6966000" />
+      <workItem from="1534572533031" duration="9601000" />
+      <workItem from="1534584075854" duration="3932000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_traininguiautomation - 2018.08.18 at 14h 21m 44s.xml">
-      <configuration name="All in traininguiautomation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 14h 31m 49s.xml">
+    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 16h 44m 25s.xml">
       <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_traininguiautomation_(2) - 2018.08.18 at 14h 33m 32s.xml">
+    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 16h 53m 35s.xml">
+      <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 16h 54m 46s.xml">
+      <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 16h 55m 25s.xml">
+      <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 16h 57m 42s.xml">
+      <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 16h 58m 33s.xml">
+      <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 17h 06m 49s.xml">
+      <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_traininguiautomation_(2) - 2018.08.18 at 17h 09m 36s.xml">
       <configuration name="All in traininguiautomation (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_traininguiautomation_(3) - 2018.08.18 at 14h 34m 33s.xml">
-      <configuration name="All in traininguiautomation (3)" configurationId="JUnit" />
+    <history-entry file="All_in_traininguiautomation_(2) - 2018.08.18 at 17h 12m 51s.xml">
+      <configuration name="All in traininguiautomation (2)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_traininguiautomation_(4) - 2018.08.18 at 14h 56m 54s.xml">
-      <configuration name="All in traininguiautomation (4)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_traininguiautomation_(5) - 2018.08.18 at 14h 59m 27s.xml">
-      <configuration name="All in traininguiautomation (5)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_traininguiautomation - 2018.08.18 at 15h 00m 35s.xml">
-      <configuration name="All in traininguiautomation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_traininguiautomation_(1) - 2018.08.18 at 15h 01m 41s.xml">
-      <configuration name="All in traininguiautomation (1)" configurationId="JUnit" />
+    <history-entry file="All_in_traininguiautomation_(2) - 2018.08.18 at 17h 14m 38s.xml">
+      <configuration name="All in traininguiautomation (2)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7934000" />
+    <option name="totallyTimeSpent" value="14501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -469,23 +640,23 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6006441" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.36553946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.6006441" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.2447665" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.19288956" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.26928896" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -513,17 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/DefinitionSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/serenity/EndUserSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -531,43 +691,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/serenity/EndUserQuoteSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/QuoteSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="697">
           <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -575,26 +701,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Quotes.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/serenity/EndUserQuoteSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="102">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/pages/QuotePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        <state relative-caret-position="284">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1261#1262#0" expanded="true" />
-            <element signature="e#1315#1316#0" expanded="true" />
-            <element signature="e#1349#1350#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/DefinitionSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/PetStore.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/steps/PetStoreSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="38" column="73" lean-forward="true" selection-start-line="38" selection-start-column="73" selection-end-line="38" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/DefinitionTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Quotes.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/testing/api/petstore/PetController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -649,5 +827,9 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean" />
   </component>
 </project>
